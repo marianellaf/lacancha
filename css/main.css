@@ -1,6 +1,6 @@
 /* Inserta tu CSS aqui */
 .contenedor{
-	width: 772px
+	width: 772px;
 	height:426px;
 	background-color: #8cb27c;
 	position: relative;
@@ -57,7 +57,7 @@
 	left: 46px;
 	top:380px;
 }
-.tres¨{
+.tres{
 	bottom: 130px;
 	right: 105px;
 }
